@@ -5,3 +5,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .app-screenshot{display:block;width:100%;height:auto;object-fit:contain}
+
+.brand{display:inline-flex;align-items:center}.brand img{display:block;width:169px;height:auto;max-width:100%}@media(max-width:580px){.brand img{width:140px}}
